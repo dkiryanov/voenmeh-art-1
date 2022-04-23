@@ -1,2 +1,2 @@
 # voenmeh-art-1
-Реализация алгоритма обучения самоорганизующейся нейронной сети адаптивной резонансной теории (АРТ).
+Implementation of the machine learning algorithm for a self-organizing neural network of adaptive resonance theory (ART).
